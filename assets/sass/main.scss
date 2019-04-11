@@ -7,11 +7,6 @@
 @import url('font-awesome.min.css');
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
-/*
-	Read Only by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
 
 // Breakpoints.
 
@@ -723,7 +718,7 @@
 			display: block;
 			height: 20em;
 			border-radius: 0;
-
+			width: 100%;
 			img {
 				border-radius: 0;
 			}
